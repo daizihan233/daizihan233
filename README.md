@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 ### 🌱 Other projects 🌱
 ### 🌱 其他的项目 🌱
 1. [jiki-yljj](https://github.com/jiki-yljj) - Analysis of the source code of the project "jikipedia" - 对项目“jikipedia”的源码
+### 🤔 But... 🤔
+### 🤔 但是...... 🤔
+⚡ I focus more on the development of **jikipedia** ⚡<br>
+⚡ 我更加侧重于 **jikipedia** 的开发 ⚡
 ****
-⚡ But I focus more on the development of jikipedia ⚡<br>
-⚡ 但是我更加侧重于 **jikipedia** 的开发 ⚡
+### 💬 Contact me 💬
+### 💬 联系我 💬
+📫 You can send email to my email: hantools@foxmail.com 📫
+📫 你可以发送邮件到我的邮箱：hantools@foxmail.com 📫
