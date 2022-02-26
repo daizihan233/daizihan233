@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### 你好呀 👋
 <!--
 **daizihan233/daizihan233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔭 Projects I am maintaining for a long tim 🔭
+### 🔭 我长期维护的项目有 🔭
+1. [HanBot](https://github.com/daizihan233/HanBot) - QQ robot based on go-cqhttp - 基于go-cqhttp制作的QQ机器人
+2. [jikipedia](https://github.com/daizihan233/jikipedia) - Python Library - Python库
+### 🌱 Other projects 🌱
+### 🌱 其他的项目 🌱
+1. [jiki-yljj](https://github.com/)
+****
+⚡ But I focus more on the development of jikipedia ⚡<br>
+⚡ 但是我更加侧重于**jikipedia**的开发 ⚡
