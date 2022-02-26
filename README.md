@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 1. [jiki-yljj](https://github.com/jiki-yljj) - Analysis of the source code of the project "jikipedia" - 对项目“jikipedia”的源码
 ****
 ⚡ But I focus more on the development of jikipedia ⚡<br>
-⚡ 但是我更加侧重于**jikipedia**的开发 ⚡
+⚡ 但是我更加侧重于 **jikipedia** 的开发 ⚡
