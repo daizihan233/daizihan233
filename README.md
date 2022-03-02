@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 2. [jikipedia](https://github.com/daizihan233/jikipedia) - Python Library - Python库
 ### 🌱 Other projects 🌱
 ### 🌱 其他的项目 🌱
-1. [jiki-yljj](https://github.com/jiki-yljj) - Analysis of the source code of the project "jikipedia" - 对项目“jikipedia”的源码
+1. [jiki-yljj](https://github.com/jiki-yljj) - Analysis of the source code of the project "jikipedia" - 对项目“jikipedia”的源码的解析
 ### 🤔 But... 🤔
 ### 🤔 但是...... 🤔
 ⚡ I focus more on the development of **jikipedia** ⚡<br>
