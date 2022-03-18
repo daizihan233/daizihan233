@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ### 🔭 我长期维护的项目有 🔭
 1. [HanBot](https://github.com/daizihan233/HanBot) - QQ robot based on go-cqhttp - 基于go-cqhttp制作的QQ机器人
 2. [jikipedia](https://github.com/daizihan233/jikipedia) - Python Library - Python库
-### 🌱 Other projects 🌱
+<!--### 🌱 Other projects 🌱
 ### 🌱 其他的项目 🌱
-1. [jiki-yljj](https://github.com/jiki-yljj) - Analysis of the source code of the project "jikipedia" - 对项目“jikipedia”的源码的解析
+-->
 ### 🤔 But... 🤔
 ### 🤔 但是...... 🤔
 ⚡ I focus more on the development of **jikipedia** ⚡<br>
